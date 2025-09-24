@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4EEV2sRFfQiPfoITqA/giphy.gif" alt="Tokyo Ghoul Mask" width="500"/>
+  <img src="https://media.giphy.com/media/JfDXR5sPRn6MShbzMj/giphy.gif" alt="Tokyo Ghoul Kaneki" width="500"/>
 </p>
