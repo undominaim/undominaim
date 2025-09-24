@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Anime girl blue background" width="500"/>
+  <img src="https://giphy.com/gifs/funimation-tokyo-ghoul-kaneki-4EEV2sRFfQiPfoITqA" alt="Anime girl blue background" width="500"/>
 </p>
