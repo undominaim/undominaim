@@ -1,84 +1,39 @@
-<h2 align="center">
-    Hi, Human 🖖
-</h2>
+<h1 align="center">Привет 👋, я undominaim</h1>
+<h3 align="center">Геймер и просто интересующийся человек</h3>
 
 <p align="center">
-    <b>I'm Matheus, a developer passionate about this amazing world of technology.</b>
-</p>
-
-<p align="center">
-    Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
-</p>
-
-<br />
-
-<p align="center">
-    <i>You can find me or contact me through these networks:</i>
-    <br/><br/>
-    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://twitter.com/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://t.me/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
-    </a>
-    <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-0A0A0B?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
-    </a>
-<p/>
-
-<p align="center">
-    <i>You can also support me financially via:</i>
-    <br/><br/>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=DPJ32N4QCWUDY" target="_blank">
-        <img src="https://img.shields.io/badge/-PayPal-0A0A0B?logo=paypal&style=for-the-badge&logoColor=white" alt="PayPal Badge" />
-    </a>
-    <a href="https://nubank.com.br/pagar/19lis0/pCMhtEdXJn" target="_blank">
-        <img src="https://img.shields.io/badge/-PIX-0A0A0B?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" />
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=undominaim&label=Просмотры+профиля&color=blueviolet&style=flat" alt="undominaim" />
 </p>
 
 ---
 
-<details>
-    <summary>More about me</summary>
-    <p>
-        I'm a self-taught student, introverted and very observant. <br />
-        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
-    </p>
-    <ul>
-        <li>🎓 Technician in System Development by ETEC</li>
-        <li>🎯 Contribute and create open source projects</li>
-        <li>📚 I'm studying Python | Algorithms | Dev Web | English</li>
-        <li>💬 You can ask me questions, I like to help!</li>
-        <li>🌑 Observing space</li>
-        <li>🎮 Find me in the gaming world: <b>TheuzzLivee</b></li>
-    </ul>
-</details>
+- 🎮 Люблю играть в разные игры — от классики до новинок
+- 🌌 Изучаю мир игр, геймерскую культуру и всё, что с этим связано
+- 📺 Часто смотрю игровые стримы и гайды
+- 🎧 Музыка, мемы и атмосфера — важная часть моего опыта
 
-<details>
-    <summary>My GitHub stats</summary>
-    <br />
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=matheusfelipeog&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=en&count_private=true" alt="General Statistics" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfelipeog&theme=dark" alt="Streak Stats" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
-    </p>
-</details>
+---
 
-<img src="./.github/assets/images/rodape_readme.svg" alt="Art for footer readme.md" />
+<h3 align="left">📫 Как со мной связаться:</h3>
+
+- Discord: `undominaim#XXXX` *(замени на свой)*
+- Telegram: [@undominaim](https://t.me/undominaim) *(если есть)*
+
+---
+
+<h3 align="left">🎮 Любимые игры / жанры:</h3>
+
+- RPG, Action, Souls-like, Стратегии
+- **The Witcher 3**, **Dark Souls**, **Cyberpunk 2077**, **Skyrim**, **Valorant** и др.
+
+---
+
+<h3 align="left">✨ GitHub для меня — это:</h3>
+
+> Просто место, где можно наблюдать за проектами, интересоваться чужими работами и, возможно, когда-нибудь начать что-то своё.
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/O6Y3GQv.gif" alt="Gaming" width="500"/>
+</p>
