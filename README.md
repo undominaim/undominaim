@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/view/emilia-smile-re-zero-gif-17724710" alt="Emilia Re:Zero" width="500"/>
+  <img src="https://media.tenor.com/8FuOaD-1kJYAAAAC/emilia-smile.gif" alt="Anime gif" width="500"/>
 </p>
