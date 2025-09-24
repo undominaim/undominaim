@@ -1,18 +1,18 @@
 <h1 align="center">🎮 undominaim</h1>
-<h3 align="center" style="color:gray;">Игровой энтузиаст и наблюдатель GitHub</h3>
+<h3 align="center" style="color:gray;">Gaming enthusiast and GitHub observer</h3>
 
 ---
 
-### 🕹️ Обо мне
+### 🕹️ About me
 
-- 🎮 Играю в игры — это стиль жизни  
-- 💬 Вижу GitHub как витрину крутых проектов  
-- 📺 Люблю стримы, мемы, лор, атмосферу  
-- 🧠 Не кодер, но наблюдаю, интересуюсь  
+- 🎮 Gaming is my lifestyle  
+- 💬 I see GitHub as a showcase of cool projects  
+- 📺 I love streams, memes, lore, and atmosphere  
+- 🧠 Not a coder, but curious and observant  
 
 ---
 
-### 🌐 Контакты и поддержка
+### 🌐 Contacts & Support
 
 <p align="center">
   <!-- Discord -->
@@ -47,22 +47,20 @@
 
 ---
 
-### 🎮 Любимые игры
+### 🎮 Favorite games
 
 - **The Witcher 3**, **Dark Souls**, **Cyberpunk 2077**  
 - **Skyrim**, **Stardew Valley**, **Elden Ring**  
-- + всё, что затягивает и вызывает эмоции  
+- + everything that captivates and excites  
 
 ---
 
-### 🧠 GitHub для меня — это:
+### 🧠 What GitHub means to me:
 
-> Просто место, где я наблюдаю за талантливыми людьми. Кто знает — может однажды и сам сделаю что-то классное.
+> Just a place where I watch talented people. Maybe one day I’ll make something cool myself.
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/4EEV2sRFfQiPfoITqA/giphy.gif" alt="Tokyo Ghoul Kaneki" width="500"/>
 </p>
-
-
