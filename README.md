@@ -1,18 +1,14 @@
 <h1 align="center">🎮 undominaim</h1>
-<h3 align="center" style="color:gray;">Геймер. Не кодер, но с вами.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=undominaim&label=Просмотры+профиля&color=blueviolet&style=flat" alt="undominaim" />
-</p>
+<h3 align="center" style="color:gray;">Игровой энтузиаст и наблюдатель GitHub</h3>
 
 ---
 
 ### 🕹️ Обо мне
 
-- 🎮 Играю в игры — это стиль жизни
-- 💬 Вижу GitHub как витрину крутых проектов
-- 📺 Люблю стримы, мемы, лор, атмосферу
-- 🧠 Не кодер, но наблюдаю, интересуюсь
+- 🎮 Играю в игры — это стиль жизни  
+- 💬 Вижу GitHub как витрину крутых проектов  
+- 📺 Люблю стримы, мемы, лор, атмосферу  
+- 🧠 Не кодер, но наблюдаю, интересуюсь  
 
 ---
 
@@ -53,9 +49,9 @@
 
 ### 🎮 Любимые игры
 
-- **The Witcher 3**, **Dark Souls**, **Cyberpunk 2077**
-- **Skyrim**, **Stardew Valley**, **Elden Ring**
-- + всё, что затягивает и вызывает эмоции
+- **The Witcher 3**, **Dark Souls**, **Cyberpunk 2077**  
+- **Skyrim**, **Stardew Valley**, **Elden Ring**  
+- + всё, что затягивает и вызывает эмоции  
 
 ---
 
@@ -66,6 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://imgur.com/gallery/rei-ayanami-BOLNk1c" alt="Rei Ayanami" width="500"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Anime girl blue background" width="500"/>
 </p>
-
