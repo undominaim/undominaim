@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/O6Y3GQv.gif" alt="Gaming" width="500"/>
+  <img src="https://tenor.com/view/emilia-smile-re-zero-gif-17724710" alt="Emilia Re:Zero" width="500"/>
 </p>
