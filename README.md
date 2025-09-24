@@ -66,5 +66,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/4Kx2FO0.gif" alt="Anime Girl on Blue Background" width="500"/>
+  <img src="https://imgur.com/gallery/rei-ayanami-BOLNk1c" alt="Rei Ayanami" width="500"/>
 </p>
+
