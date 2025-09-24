@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/8FuOaD-1kJYAAAAC/emilia-smile.gif" alt="Anime Girl on Blue Background" width="500"/>
+  <img src="https://i.imgur.com/4Kx2FO0.gif" alt="Anime Girl on Blue Background" width="500"/>
 </p>
