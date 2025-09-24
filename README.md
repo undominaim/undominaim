@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JfDXR5sPRn6MShbzMj/giphy.gif" alt="Tokyo Ghoul Kaneki" width="500"/>
+  <img src="https://media.giphy.com/media/SdBCTQOuO2AlZYX3sM/giphy.gif" alt="Rei Ayanami Art" width="500"/>
 </p>
