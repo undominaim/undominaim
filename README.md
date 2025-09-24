@@ -16,19 +16,19 @@
 
 <p align="center">
   <!-- Discord -->
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
+  <a href="https://discord.com/users/1272324706602844208" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <!-- Twitch -->
-  <a href="https://twitch.tv/undominaim" target="_blank">
+  <a href="https://twitch.tv/seendys" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
   <!-- Telegram -->
-  <a href="https://t.me/undominaim" target="_blank">
+  <a href="https://t.me/cheiserr target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <!-- Steam -->
-  <a href="https://steamcommunity.com/id/undominaim" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199418188139/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
   <!-- PayPal -->
